@@ -1,6 +1,0 @@
-classes/vendor/
-classes/.env
-classes/storage/logs/
-#classes/public/storage
-*.log
-*.cache
